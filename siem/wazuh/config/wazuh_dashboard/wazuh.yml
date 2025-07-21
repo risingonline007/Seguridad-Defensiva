@@ -1,0 +1,8 @@
+hosts:
+  - 1513629884013:
+      url: "https://wazuh.manager"
+      port: 55000
+      username: wazuh-wui
+      password: "Xjdk-h2o24rumor_DiXon"
+      run_as: false
+enrollment.dns: "wazuh-manager.cybernow.es"

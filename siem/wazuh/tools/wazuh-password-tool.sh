@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>4.10/wazuh-passwords-tools.sh</Key><RequestId>PXWZ88HCAPYB0586</RequestId><HostId>wukcpOLurlADafNYmVaChndOwZgUauFQhu3S0vWWP9Xj9hRRYQzPHXhXvY8mlATQlSckGY5aloo=</HostId></Error>
