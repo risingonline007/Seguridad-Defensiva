@@ -1,1 +1,2 @@
-# Support files to Seguridad Defensiva: Herramientas Open Source
+# Support files to "Blue Team De La Teoría a la Práctica: Herramientas Open Source"
+
